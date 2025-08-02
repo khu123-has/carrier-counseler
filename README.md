@@ -89,11 +89,7 @@ Supports IBM certification tracks via integration with Watsonx and Granite AI Fo
 ---
 
 ## 🔗 GitHub Link
-
-> *Add your code or related assets here*  
-> This repo includes the original presentation in `/presentation`.
-
----
+https://github.com/khu123-has/carrier-counseler
 
 ## 📂 Files
 
